@@ -1,0 +1,2 @@
+ninja: Entering directory `D:\BEVApp\opencv\sdk\.cxx\Debug\6v361y5y\arm64-v8a'
+ninja: no work to do.
